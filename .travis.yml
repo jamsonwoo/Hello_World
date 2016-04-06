@@ -1,0 +1,4 @@
+language: php
+rvm:
+ - 5.0
+script: bundle exec repec spec
