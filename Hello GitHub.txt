@@ -1,3 +1,5 @@
 ﻿1、使用GitHub for windows新增文件。
 
 2、修改文件。
+
+3、由PC机修改文件。
